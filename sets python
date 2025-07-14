@@ -1,1 +1,19 @@
 # python-
+# 🐍 Python Sets – Complete Guide
+
+## 📘 Introduction
+
+> _A `set` in Python is an **unordered**, **unindexed**, and **mutable** collection that stores **unique** items. Sets are useful for eliminating duplicates and performing mathematical set operations._
+
+---
+
+## 🔧 Set Creation
+
+### 📌 **Definition**
+> _You can create a set using curly braces `{}` or the built-in `set()` function._
+
+### 💻 **Example Code:**
+```python
+# Creating a set
+numbers = set([1, 2, 2, 3])
+print(numbers)
